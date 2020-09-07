@@ -1,0 +1,28 @@
+{
+  "name": "nrt3416.zadatak1",
+  "version": "1.0.0",
+  "description": "Domaći zadatak za predavanje 5 iz IST-a.",
+  "main": "NRT3416.zadatak1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okcerS/NRT3416.zadatak1.git"
+  },
+  "keywords": [
+    "domaci",
+    "zadatak",
+    "5",
+    "ist"
+  ],
+  "author": "Srećko Krsmanović",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okcerS/NRT3416.zadatak1/issues"
+  },
+  "homepage": "https://github.com/okcerS/NRT3416.zadatak1#readme",
+  "dependencies": {
+    "mathjs": "^7.2.0"
+  }
+}
